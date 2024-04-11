@@ -1,0 +1,2 @@
+Ciao Mondo!
+Questo è un file input di prova.
